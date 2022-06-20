@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Samuel, a full-time full-stack developer 👨‍💻 since 2019 🚀</div>  
+### <div align="center">I'm Sam, a full-time full-stack developer 👨‍💻 since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Samx-Coder/github-profilinator)  
